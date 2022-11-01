@@ -1,0 +1,12 @@
+insert into user (first_name, last_name, date_of_birth) values ('Alejandrino', 'Doherty', '1992-06-10');
+insert into user (first_name, last_name, date_of_birth) values ('Curtis', 'Warden', '1987-01-29');
+insert into user (first_name, last_name, date_of_birth) values ('Zaccaria', 'Silkston', '1998-06-09');
+insert into user (first_name, last_name, date_of_birth) values ('Genevra', 'Breadmore', '2006-10-11');
+insert into user (first_name, last_name, date_of_birth) values ('Collette', 'Pandie', '1994-08-15');
+insert into user (first_name, last_name, date_of_birth) values ('Gabriella', 'Bulter', '1991-07-26');
+insert into user (first_name, last_name, date_of_birth) values ('Abey', 'Thatcher', '1996-07-27');
+insert into user (first_name, last_name, date_of_birth) values ('Clayson', 'Sutworth', '1989-02-17');
+insert into user (first_name, last_name, date_of_birth) values ('Drucy', 'Etoile', '2010-04-25');
+insert into user (first_name, last_name, date_of_birth) values ('Vita', 'Robins', '1999-02-25');
+insert into user (first_name, last_name, date_of_birth) values ('Sher', 'Croom', '2001-11-06');
+insert into user (first_name, last_name, date_of_birth) values ('Zackariah', 'Buye', '1997-11-12');

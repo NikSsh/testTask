@@ -1,0 +1,1 @@
+//clear inserted data from user table
